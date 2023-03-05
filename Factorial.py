@@ -10,7 +10,7 @@ def factorial(n):
    return resultado
 
 #CALCULAMOS EL FACTORIAL DE 5.
-fact5=factorial(9)
+fact5=factorial(5)
 
 #VISUALIZAMOS RESULTADO.
 print(fact5)
